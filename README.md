@@ -1,4 +1,4 @@
-### Hi there 👋 This file of Anit
+### Hi there 👋 This is the profile of Anit Thakur Chakraborty
 
 <!--
 **Anit321/Anit321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
